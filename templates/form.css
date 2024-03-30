@@ -1,0 +1,44 @@
+.form{
+    height: 200px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 38%;
+    background-color: rgb(50, 48, 48);
+
+}
+body{ 
+   /* background-image:url("pexels-photo-276092.jpeg");
+   background-size: fit; */
+   background-color: beige;
+}
+input{
+    border-radius: 5px;
+    height:30px ;
+}
+button{
+    
+    border-radius: 5px;
+}
+a{
+    /* border-radius: 5px; */
+    color:black;
+    background-color:auto;
+    text-decoration: none;
+    /* border: 2px solid black; */
+}
+.h1{
+    color: black;
+    /* background-color: black; */
+    height: 40px;
+    width: 400px;
+    margin-left: 35%;
+    margin-bottom: 1%;
+    margin-top: 18%;
+    border-radius: 15px;
+    text-align: center;
+
+}
